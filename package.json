@@ -1,0 +1,19 @@
+{
+  "name": "til",
+  "version": "0.0.1",
+  "description": "My personal TIL records",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malakhim/til.git"
+  },
+  "author": "Bryan Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malakhim/til/issues"
+  },
+  "homepage": "https://github.com/malakhim/til#readme"
+}
